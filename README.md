@@ -1,5 +1,7 @@
 # ZhuaTech SBOM · 软件供应链治理平台
 
+[简体中文](README.md) | [English](README.en.md)
+
 ![Java](https://img.shields.io/badge/Java-21-6656a5) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4-6DB33F) ![Vue](https://img.shields.io/badge/Vue-3-42b883) ![Usage](https://img.shields.io/badge/usage-non--commercial-c05a4d)
 
 发布一套软件之前，团队应该能够回答：它包含什么组件、从哪里来、有哪些漏洞、许可证是否兼容、由谁构建以及整改是否真正进入最终发布物。
